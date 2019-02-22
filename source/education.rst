@@ -3,20 +3,20 @@
 Education 
 ############
 
-College/University
+University of Massachusetts
+****************************
+
+*BA, French*
+Bachelor of Arts. Concentration in French literature
+
+ 
+ 
+Boston University
 **********************
 
-*Degree*
+*Master’s of Education* 
+Concentration on Teaching English as a Second Language
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
-
-
-College/University
-**********************
-
-*Degree*
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
 
 
 

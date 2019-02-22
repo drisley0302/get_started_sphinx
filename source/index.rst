@@ -2,9 +2,9 @@ CV Dana Risley
 ##############
 
 
-.. image:: images/github-photo.png
+.. image:: images/Headshot.png
          :name: headshot
-         :width: 30%
+         :width: 20%
 
 Dana Risley
 English Language Instructor

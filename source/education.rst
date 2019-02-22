@@ -15,7 +15,7 @@ Boston University
 **********************
 
 *Master’s of Education* 
-Concentration on Teaching English as a Second Language
+Concentration on Teaching. English as a Second Language
 
 
 

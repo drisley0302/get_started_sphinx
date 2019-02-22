@@ -1,13 +1,13 @@
-Sample Resume with Sphinx
-###############################
+CV Dana Risley
+##############
 
 
 .. image:: images/github-photo.png
-         :name: my picture
+         :name: headshot
          :width: 30%
 
-Mark Hoeber
-Instructor, Middlesex Community College
+Dana Risley
+English Language Instructor
 
 
 |Contents|

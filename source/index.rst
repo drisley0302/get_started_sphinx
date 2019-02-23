@@ -2,9 +2,10 @@ CV Dana Risley
 ##############
 
 
-.. image:: images/Another headshot.png
+.. image:: Anotherheadshot.png
          :name: Another headshot
-         :width: 20%
+         :height: 100px
+         :width: 200 px
 
 Dana Risley
 English Language Instructor

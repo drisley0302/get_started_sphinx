@@ -2,8 +2,8 @@ CV Dana Risley
 ##############
 
 
-.. image:: images/Anotherheadshot.jpg
-         :name: Anotherheadshot
+.. image:: images/Another headshot.png
+         :name: Another headshot
          :width: 20%
 
 Dana Risley

@@ -1,28 +1,21 @@
-
-
 Experience
 ############
+**International School of Boston**, *Cambridge, MA*
+=================================
+*English Teacher, French and International Baccalaureate Programs*
 
-Job Title at Company
-**********************
+* Develop Language B curriculum for the International Baccalaureate (IB) program.
+* Promote climate of cultural sensitivity among student body.
+* Lead teacher for the Chinese Student Program. Facilitate implementation of procedures for the program.
+* Manage the testing and placement of Chinese and other international students into their language classes.
+* Maintain updates with host families and teachers regarding students’ academic progress.
+* Monitor and track students’ performance and make placement recommendations.
+* Offer Admissions input with candidate application review. 
 
-*April 2011 - Present*
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
-
-Job Title at Company
-***********************
-
-*Janruary 2007 - March 2011*
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
-
-Job Title at Company
-*********************
-
-*October 2004 - December 2006*
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
-
-
-
+**Tufts University**, *Medford, MA*
+===================
+*Instructor, Summer English Language Program* 
+ June 2009- August 2011 (summer) 
+* Developed curriculum content including, language acquisition skills, novel reading and current events. 
+* Facilitated class discussions among students from widely diverse backgrounds. 
+* Guided development of writing skills across a variety of writing formats.

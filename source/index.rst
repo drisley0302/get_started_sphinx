@@ -5,8 +5,7 @@ CV Dana Risley
          :name: Me
          :width: 20%
 
-Dana Risley
-English Language Instructor
+**Dana Risley**, *English Language Instructor*
 
 
 |Contents|

@@ -1,6 +1,6 @@
 
 
- **Key Skills**  
+ Key Skills 
 #####################
 
 .. list-table:: Key Skills

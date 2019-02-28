@@ -1,7 +1,7 @@
 
 
  Key Skills 
-#####################
+############
 
 .. list-table:: Key Skills
    :widths: 50 50 50

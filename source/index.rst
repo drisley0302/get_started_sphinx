@@ -11,10 +11,8 @@ Caretaking of a parent does not come naturally to most of us.  There is an inevi
 
 .. toctree::
    :maxdepth: 2
-
    EarlyWarningSigns
    
-
  Table of Contents
 -------------------
 **Early Warning Signs**

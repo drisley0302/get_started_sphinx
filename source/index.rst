@@ -1,22 +1,30 @@
-CV Dana Risley
-##############
+Plan of Care: When a Loved One Has Dementia 
+###########################################
 
-.. image:: images/Me.png
-         :name: Me
-         :width: 20%
+About this Guide 
+================
 
-**Dana Risley**, *English Language Instructor*
-
-
+.. image:: image: Grandparents white.jpg  
+   Caretaking of a parent does not come naturally to most of us.  There is an inevitable reversal of roles when a parent or other beloved elder begins to demonstrate cognitive decline. For most, it requires a giant leap toward accepting the reality of this new relationship dynamic. This guide is designed to help family members understand the responsibilities that come with this new role.
+   
 |Contents|
 
 .. toctree::
    :maxdepth: 2
 
-   profile
-   experience
-   skills
-   education
+   
+
+ Table of Contents
+-------------------
+**Early Warning Signs**
+
+**Next Steps**
+
+**Keeping the Person with Dementia Safe at Home**
+
+**Checklists: Important Contacts**
+
+**Resources**
 
 
-.. add new files to list above to include them in toc
+   (insert video here ex. https://www.caregiver.org/about-fca)

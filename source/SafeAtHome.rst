@@ -14,7 +14,7 @@ The following are ways to provide a safe in-home support system.
 - *Appliance safety*  Consider upgrading appliances to those that have automatic shut off. Tea kettles, coffee makers, even stove tops can be installed with automatic shut off timers. Remove fuses in the oven and shut off the gas. Lower hot water heater temperature.
 
 - *Phone System* Install a phone that can be programmed with phone numbers of your love done's care circle and emergency help.  Seek out phones_ that are designed for elderly or memory impaired individuals.
-.. _phones: https://www.mindcarestore.com/memory-picture-phone-p/mc-0030.htm?gclid=EAIaIQobChMItMLJjb3s4QIVy-DICh13Tg_wEAQYBSABEgKkWPD_BwE/
+.. _phones: https://www.mindcarestore.com/picture-memory-phone-dementia-s/1843.htm
 
 
 Daily Living	Get help with tasks such as housekeeping and meal preparation, or with personal care such as bathing.	Someone is in the home to supervise activity and provide companionship. Tasks get accomplished.	Person with disease may be reluctant or resistant to accepting help.

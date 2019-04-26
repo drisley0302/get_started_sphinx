@@ -15,6 +15,9 @@ The following are ways to provide a safe in-home support system.
 stove tops can be installed with automatic shut off timers.  Remove fuses in the oven and shut off the gas. Lower hot water heater temperature.
 
 - *Phone System* Install a phone that can be programmed with phone numbers of your love done's care circle and emergency help.  Seek out phones that are designed for elderly or memory impaired individuals.
+.. _phones: https://www.mindcarestore.com/memory-picture-phone-p/mc-0030.htm?gclid=EAIaIQobChMItMLJjb3s4QIVy-DICh13Tg_wEAQYBSABEgKkWPD_BwE/
+
+
 Daily Living	Get help with tasks such as housekeeping and meal preparation, or with personal care such as bathing.	Someone is in the home to supervise activity and provide companionship. Tasks get accomplished.	Person with disease may be reluctant or resistant to accepting help.
 Sort closets and dresser drawers to make only the necessary clothes available.	Makes decisions about what to wear easier.	Does not help if the person has trouble knowing when or how to dress.
 Food	Meals on Wheels.	Delivery of hot meal once a day.	No way to monitor if food has been eaten or stored properly.

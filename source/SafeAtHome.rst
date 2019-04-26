@@ -1,5 +1,5 @@
-Keeping the Person with Dementia Safe at Home
-##############################################
+Safe at Home
+##############
 
 A diagnosis of dementia has been made. Of course, this has, most likely, been a shock to both you and your loved one.  Now what? Is it possible for a person diagnosed with dementia to remain in their home?  The answer is a resounding "yes" - at least for a while.
 Now that your loved one and concerned family or friends understand the cognitive difficulties that your loved one is facing, a decision may be made for him/her to remain in the home for as long as possible. With support, many people can remain in their homes.  

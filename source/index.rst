@@ -22,15 +22,7 @@ Caretaking of a parent does not come naturally to most of us.  There is an inevi
 
 
 
-**Early Warning Signs**
 
-**Next Steps**
-
-**Keeping the Person with Dementia Safe at Home**
-
-**Checklists: Important Contacts**
-
-**Resources**
 
 
    (insert video here ex. https://www.caregiver.org/about-fca)

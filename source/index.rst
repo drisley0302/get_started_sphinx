@@ -9,17 +9,11 @@ Caretaking of a parent does not come naturally to most of us.  There is an inevi
    
 |Contents|
 
-
 .. toctree::
    :maxdepth: 1
    
    EarlyWarningSigns
  
- .. toctree::
-   :maxdepth: 1
-    
-   NextSteps
-  
 
 
 

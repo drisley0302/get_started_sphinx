@@ -2,7 +2,7 @@ Important Documents
 +++++++++++++++++++
 
 .. image:: images/Elderlydocs.jpg
-   :width: 80pt
+   :width: 110pt
 With a diagnosis of dementia, you or another member of your loved one's care circle will, most likely, become responsible for making medical and financial decisions for them.  While this can be a situation that is wrought with discomfort and even avoidance, it is critical to get the proper medical and financial documents in order *before* your elder is no longer able to participate in making their wishes clear.
 
 A medical directive, also called a Living Will or Durable Power of Attorney for Healthcare, will cover directions regarding medical procedures to be taken on behalf of your loved one. Having this document in order allow your loved one to make choices regarding their end-of-life care.  It also prevents confusion and disagreements among family members. 

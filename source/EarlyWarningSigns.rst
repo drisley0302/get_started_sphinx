@@ -5,8 +5,8 @@ Very often changes in an older adult’s cognitive abilities are first observed 
 
 Cognitive decline becomes more common as individuals age.  Some cognitive decline is normal beginning as early as age 50, but when changes in memory, mood, behavior or routine become frequent to the point that they are impacting daily life, it is time to address these concerns.  Family members may not want to be alarmist, and indeed, families should try to avoid overdramatizing normal decline in memory.  Repeating a story that was told at another time to the same listeners is not unusual in normal aging, but when repetitiveness occurs frequently in the same conversation there is cause for concern.  Getting lost or confused while driving is another red flag that indicates a major change in routine and behavior.
 
-Cause for Concern
-==================
+ Cause for Concern
+ =================
 #. Social differences.  Dementia can cause people to significantly decrease or avoid social interaction. Take note of any changes in conduct and conversations that point to a preference for isolation. 
 #. Mood shifts. Depression, anxiety and unfounded imaginings are commonly present in dementia patients. These changes in behavior are cause for concern.
 #. Memory loss. Difficulties with short-term memory can be common in older adults. Repeating conversation snippets several times in a single conversation is a red flag.

@@ -23,7 +23,7 @@ pygments_style = 'sphinx'
 
 
 #html_theme = 'default'
-html_theme = 'classic'
+html_theme = 'default'
 
 rst_epilog = """
 .. include:: substitutions.txt

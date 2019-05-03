@@ -1,7 +1,11 @@
 Resources
 +++++++++
+The following links provide a wealth of resources for those affected by dementia
 
-.. _AlzheimersAssociation:.. https://alz.org/
-https://www.alz.org/uk/dementia-alzheimers-uk.asp
-https://alzfdn.org/caregiving-resources/fact-sheets-information/
+1. AlzheimersAssociation_
 
+.. _AlzheimersAssociation: http://www.alz.org/
+
+2. NationalInstitutesofHealth_
+
+.. _NationalInstitutesofHealth:  https://www.nia.nih.gov/health/caregiving

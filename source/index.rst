@@ -23,8 +23,4 @@ Caretaking of a parent does not come naturally to most of us.  There is an inevi
    ImportantDocuments
 
 
-
-
-
-
-   (insert video here ex. https://www.caregiver.org/about-fca)
+.. youtube:: https://youtu.be/-fdqCpKbiu0

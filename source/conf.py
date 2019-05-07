@@ -22,8 +22,8 @@ language = None
 pygments_style = 'sphinx'
 
 
-#html_theme = 'edx_theme'
-html_theme = 'edx_theme'
+#html_theme = 'python_docs_theme'
+html_theme = 'python_docs_theme'
 
 rst_epilog = """
 .. include:: substitutions.txt

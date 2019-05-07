@@ -22,12 +22,13 @@ language = None
 pygments_style = 'sphinx'
 
 
-#html_theme = 'bizstyle'
-html_theme = 'bizstyle'
+#html_theme = 'edx_theme'
+html_theme = 'edx_theme'
 
 rst_epilog = """
 .. include:: substitutions.txt
 """
+
 
 
 

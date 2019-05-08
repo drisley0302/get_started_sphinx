@@ -26,5 +26,6 @@ The following are ways to provide a safe in-home support system.
 - *Digital Clock*  There are several clocks on the market that are specifically designed for dementia patients.  These clocks are actually a combination calendar and clock.  The day of the week, date, month and time are usually displayed in large, very easily recognized letters and numbers.  Losing track of the day and time are often signs of early dementia. This sort of clock can bring comfort to those who are beginning to lose a sense of time-keeping.
 
 The guide, Making Your Home Dementia Friendly, provides a wealth of suggestions for helping to keep your loved one at home as long as possible.  Alzheimers_ .. 
+
 _Alzheimers: https://www.alzheimers.org.uk/get-support/making-your-home-dementia-friendly
  

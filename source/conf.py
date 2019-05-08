@@ -22,8 +22,8 @@ language = None
 pygments_style = 'sphinx'
 
 
-#html_theme = 'wild'
-html_theme = 'wild'
+#html_theme = 'classic'
+html_theme = 'classic'
 
 rst_epilog = """
 .. include:: substitutions.txt

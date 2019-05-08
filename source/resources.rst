@@ -14,6 +14,5 @@ The following links provide a wealth of resources for those affected by dementia
 
 .. raw:: HTML
  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/-fdqCpKbiu0" frameborder="0" allow="accelerometer; autoplay;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe allowfullscreen width='852' height='480' scrolling='no' frameborder='0' style='border: none;' src='https://www.wevideo.com/embed/#1376014160' allowfullscreen></iframe>
 

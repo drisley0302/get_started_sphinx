@@ -38,7 +38,7 @@ html_theme_options = {
 
   "footerbgcolor": "#242342",
   "sidebarbgcolor": "#63b4cf",
-  "sidebarlinkcolor": "#b1aefb",
+  "sidebarlinkcolor": "#000000",
   "relbarbgcolor": "#353460",
   "headtextcolor": "#353460 ",
   "linkcolor": "#4d4b89",

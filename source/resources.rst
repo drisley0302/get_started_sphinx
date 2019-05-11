@@ -10,7 +10,17 @@ The following links provide a wealth of resources for those affected by dementia
 
 .. _NationalInstitutesofHealth:  https://www.nia.nih.gov/health/caregiving
 
-3. Informational Video
+3. HomeInSteadGuide_ 
+
+.. _HomeInsteadGuide: https://www.helpforalzheimersfamilies.com/wp-content/uploads/HelpForAlzheimersFamiliesGuide_final.pdf
+
+4. APlaceForMom_
+
+.. _APlaceForMom: https://www.aplaceformom.com/blog/2013-02-18memory-loss-retirement-savings/
+
+
+
+5. Informational Video
 
 .. raw:: HTML
  

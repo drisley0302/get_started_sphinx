@@ -37,7 +37,7 @@ html_theme = 'classic'
 html_theme_options = {
 
   "footerbgcolor": "#30819c",
-  "sidebarbgcolor": "#63b4cf",
+  "sidebarbgcolor": "#30819c",
   "sidebarlinkcolor": "#000000",
   "relbarbgcolor": "#002080",
   "headtextcolor": "#002080",

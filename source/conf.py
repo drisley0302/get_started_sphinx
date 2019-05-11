@@ -41,7 +41,7 @@ html_theme_options = {
   "sidebarlinkcolor": "#000000",
   "relbarbgcolor": "#002080",
   "headtextcolor": "#002080",
-  "linkcolor": "#4d4b89",
+  "linkcolor": "#002080",
   "visitedlinkcolor": "#242342",
 
 }

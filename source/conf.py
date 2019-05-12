@@ -42,7 +42,7 @@ html_theme_options = {
   "relbarbgcolor": "#002080",
   "headtextcolor": "#002080",
   "linkcolor": "#30819c",
-  "visitedlinkcolor": "#242342",
+  "visitedlinkcolor": "#191970",
 
 }
 
